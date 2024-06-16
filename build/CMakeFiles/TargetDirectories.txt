@@ -1,0 +1,3 @@
+/home/ccw/cpp_learn/sort/build/CMakeFiles/rebuild_cache.dir
+/home/ccw/cpp_learn/sort/build/CMakeFiles/edit_cache.dir
+/home/ccw/cpp_learn/sort/build/CMakeFiles/mysort.dir
