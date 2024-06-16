@@ -230,6 +230,6 @@ int main()
     {
         cout<<"sort error!"<<endl<<endl;
     }
-    system("pause");
+    
     return 0;
 }
